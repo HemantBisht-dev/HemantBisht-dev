@@ -1,4 +1,5 @@
 👋 Hi, I’m @HemantBisht
+
 👀 About Me
 I’m a passionate web developer with a background in mechanical engineering, now diving into the world of web development.
 My journey began with frontend development, where I gained hands-on experience with HTML, CSS, JavaScript, React, and Tailwind CSS. 
@@ -20,6 +21,7 @@ I’m also looking to contribute to MERN stack projects to strengthen my backend
 
 📫 How to Reach Me
 Email: hmntbst2210@gmail.com
+
 LinkedIn: www.linkedin.com/in/hemant-web-developer
 
 😄 Pronouns
